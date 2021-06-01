@@ -1,4 +1,6 @@
-Hi there 👋,I am Abdelwahab EL Filali !
+Hi there 👋,
+
+I am Abdelwahab EL Filali !
 ---
 
 I am a Software engineering student pursuing my bachelor's degree majoring in computer science from The National School of Applied Sciences.
@@ -9,11 +11,11 @@ Find out more about me & feel free to connect with me here:
 
 [![Gmail Badge](https://img.shields.io/badge/-abd.el.filali199@gmail.com-purple?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abd.el.filali199@gmail.com/)](mailto:abd.el.filali199@gmail.com)
 
-
+---
 
 
 🧰ToolBox
-
+---
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html logo" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3 logo" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap logo" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript logo" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react logo" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux logo" width="50" height="50"/>  
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java logo" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="spring logo" width="50" height="50"/> 
@@ -26,9 +28,9 @@ Find out more about me & feel free to connect with me here:
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EL-Filali&hide=html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EL-Filali&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=EL-Filali&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=EL-Filali)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
